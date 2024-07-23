@@ -12,8 +12,8 @@ export interface CustomButtonProps{
 }
 
 export interface searchManufacturerProps {
-    manufacture : string;
-    setManufacture : (manufacture : string) => void
+    manufacturer : string;
+    setManufacturer : (manufacture : string) => void
 }
 
 export interface CarProps {
@@ -30,3 +30,11 @@ export interface CarProps {
     transmission:string,
     year:number,
 } 
+
+export interface FilterProps {
+    manufacturer: string,
+    year: number,
+    fuel: string,
+    limit: number,
+    model: string
+}
