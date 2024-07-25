@@ -1,5 +1,8 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+![Next js_Car Application](https://github.com/user-attachments/assets/604a48a5-979c-4b62-94e8-8dbf346795cf)
+
+
 ## Getting Started
 
 First, run the development server:
